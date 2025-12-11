@@ -23,3 +23,35 @@ epika（セキュリティエンジニア）
 【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme
 - [動画](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
 - [コマンド]()
+
+まさるの勉強部屋の動画シリーズ『支援士.exe』で使用するコマンドなどの置き場所です。
+
+### 動画内容
+
+「支援士.exe」は、実行ファイルであるexeファイルのように、実際に実行してみる動画シリーズです。<br>
+安全確保支援士試験に出てきたキーワードを元に、TryHackMeやCTFなどを使ってハンズオンで学んでいきます。<br>
+
+試験対策だけでなく、現場で役立つ実践スキルを身につけることを目指しています。<br>
+セキュリティに興味を持つきっかけになるような、楽しく学べる内容をお届けしております！
+
+### 出演者
+- まさる（教育系Youtuber）<br>Xアカウント [@masaru_benkyou](https://x.com/masaru_benkyou)
+- epika（セキュリティエンジニア）<br>Xアカウント 日常：[@epika025](https://x.com/epika025) ／お知らせ用：[@epikapi025](https://x.com/epikapi025)<br>
+<br><br>
+
+## リンク
+#### 【 支援士.exeの再生リスト】
+- [動画再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
+
+
+#### 【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme
+- [動画](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
+
+#### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
+- [動画](https://www.youtube.com/watch?v=lZWXdp9wuko)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
+
+#### 【支援士.exe #3】 
+- [動画]()
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/03-OWASP)
